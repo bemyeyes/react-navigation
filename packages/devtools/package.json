@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "deep-equal": "^2.2.3",
-    "nanoid": "3.3.7",
+    "nanoid": "3.3.8",
     "stacktrace-parser": "^0.1.10"
   },
   "devDependencies": {
