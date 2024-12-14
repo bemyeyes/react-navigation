@@ -37,7 +37,7 @@
   "dependencies": {
     "@react-navigation/routers": "^7.0.0-alpha.6",
     "escape-string-regexp": "^4.0.0",
-    "nanoid": "3.3.7",
+    "nanoid": "3.3.8",
     "query-string": "^7.1.3",
     "react-is": "^18.2.0",
     "use-latest-callback": "^0.1.9"

@@ -36,7 +36,7 @@
     "clean": "del lib"
   },
   "dependencies": {
-    "nanoid": "3.3.7"
+    "nanoid": "3.3.8"
   },
   "devDependencies": {
     "del-cli": "^5.1.0",
